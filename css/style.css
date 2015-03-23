@@ -1,0 +1,26 @@
+body {
+    padding: 20px 10px;
+    font-family: Calibri;
+    max-width: 2000px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+    background-color: #efedf5;
+} 
+.title {
+    background-color: #efedf5;
+    border-radius: 10px;
+}
+.TOC {
+    background-color: #efedf5;
+    border-radius: 10px;
+}
+.subheader {
+    background-color: #756bb1;
+    color: white;
+    border-radius: 10px;
+}
+.description {
+    background-color: #bcbddc;
+    border-radius: 10px;
+}
